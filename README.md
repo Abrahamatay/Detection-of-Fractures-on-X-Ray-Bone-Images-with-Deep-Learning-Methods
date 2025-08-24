@@ -31,7 +31,7 @@ Fracture detection example:
 ![Result Example](results/result_example.jpg)  
 
 Interface example:  
-![Interface Example](results/interface_exampl.jpg)  
+![Interface Example](results/interface-example.jpg)  
 
 ---
 
