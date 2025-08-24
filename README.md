@@ -21,10 +21,10 @@ The dataset used in this study was compiled from open-access sources and is avai
 ## 📌 Results
 
 ### 🔹 Model Performance Metrics
-![YOLOv8 Metrics](results/yolov8_metrics.jpg)  
-![RT-DETR Metrics](results/rtdetr_metrics.jpg)  
-![Faster R-CNN Metrics](results/fasterrcnn_metrics.jpg)  
-![RetinaNet Metrics](results/retinanet_metrics.jpg)  
+![YOLOv8 Metrics](results/yolo_metrics.jpg)  
+![RT-DETR Metrics](results/RT-DETR_metrics.jpg)  
+![Faster R-CNN Metrics](results/Faster_R-CNN_metrics.jpg)  
+![RetinaNet Metrics](results/RetinaNet_metrics.jpg)  
 
 ### 🔹 Sample Outputs
 Fracture detection example:  
